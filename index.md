@@ -1,7 +1,7 @@
 
 
 ## About Me
-My name is Wenxuan Zhang. I am a master student in [Applied Mathematics and Computational Science] graduate group at [Department of Mathematics], [University of Pennsylvania](https://www.upenn.edu).  Previously, I received my Bachelor's degree in Mathematics and Applied Mathematics from [School of Mathematical Science], [Beijing Normal University](https://www.bnu.edu.cn) in 2019. 
+My name is Wenxuan Zhang. I am a master student in [Applied Mathematics and Computational Science](https://www.amcs.upenn.edu) graduate group at [Department of Mathematics](https://www.math.upenn.edu), [University of Pennsylvania](https://www.upenn.edu).  Previously, I received my Bachelor's degree in Mathematics and Applied Mathematics from [School of Mathematical Science](http://math.bnu.edu.cn/xyxw/index.htm), [Beijing Normal University](https://www.bnu.edu.cn) in 2019. 
 
 
 ## Research
@@ -11,6 +11,6 @@ If you are interested in my previously researches and projects, feel free to rev
 
 
 ## Recent Activities
-I spent summer 2020 at [RED](https://www.xiaohongshu.com) as a machine learning intern. My work was mainly on deep net and [Kaldi] based speaker verification.
+I spent summer 2020 at [RED](https://www.xiaohongshu.com) as a machine learning intern. My work was mainly on deep net and [Kaldi](https://kaldi-asr.org) based speaker verification.
 
 
