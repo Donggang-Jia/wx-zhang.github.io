@@ -8,4 +8,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="/projects">Projects</a >
   <br><br>
   <a href="recourses/CV.pdf">Resume</a >
+  <br><br>
+  <a href="/toy">Toy Examples</a >
 theme: jekyll-theme-minimal
